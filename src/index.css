@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+html, body { background: #fff; }
+::selection { background: rgba(77, 214, 199, 0.35); }
