@@ -6,8 +6,8 @@ const navLink = "text-sm font-semibold text-zinc-700 hover:text-zinc-900 transit
 const navActive = "text-sm font-semibold text-[#0B2A5B]";
 
 export default function Navbar() {
-  const phoneDisplay = "+61 400 000 000";
-  const phoneTel = "+61400000000";
+  const phoneDisplay = "+61 493728769";
+  const phoneTel = "+614493728769";
 
   return (
     <header className="sticky top-0 z-50 bg-white border-b border-zinc-200">

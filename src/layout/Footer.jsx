@@ -6,7 +6,7 @@ export default function Footer() {
       <Container className="py-5">
         <div className="grid gap-4 sm:grid-cols-2">
           <div>
-            <p className="text-sm font-extrabold text-[#062047]">Boga Painters</p>
+            <p className="text-sm font-extrabold text-[#062047]">Fine Line Paint</p>
             <p className="mt-2 text-sm text-[#062047]/90">
               Residential & commercial painting in Melbourne. Clean finish, fair price, friendly service.
             </p>
@@ -14,8 +14,8 @@ export default function Footer() {
           <div className="sm:text-right">
             <p className="text-sm font-semibold text-[#062047]">Contact:</p>
             <p className="mt-2 text-sm text-[#062047]/90">
-              Phone: <span className="font-semibold">0400 000 000</span><br />
-              Email: <span className="font-semibold">bogapainters@gmail.com</span>
+              Phone: <span className="font-semibold">0493728769</span><br />
+              Email: <span className="font-semibold">finelinepaintmelbournes@gmail.com</span>
             </p>
           </div>
         </div>
