@@ -15,13 +15,13 @@ export default function Footer() {
             <p className="text-sm font-semibold text-[#062047]">Contact:</p>
             <p className="mt-2 text-sm text-[#062047]/90">
               Phone: <span className="font-semibold">0493728769</span><br />
-              Email: <span className="font-semibold">finelinepaintmelbournes@gmail.com</span>
+              Email: <span className="font-semibold">finelinepaintmelbourne@gmail.com</span>
             </p>
           </div>
         </div>
 
         <p className="mt-4 text-xs text-[#062047]/85">
-          © 2026 Boga Painters. All rights reserved.
+          © 2026 Fine Line Painters. All rights reserved.
         </p>
       </Container>
     </footer>
