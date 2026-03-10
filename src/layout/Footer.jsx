@@ -14,7 +14,7 @@ export default function Footer() {
           <div className="sm:text-right">
             <p className="text-sm font-semibold text-[#062047]">Contact:</p>
             <p className="mt-2 text-sm text-[#062047]/90">
-              Phone: <span className="font-semibold">0493728769</span><br />
+              Phone: <span className="font-semibold">0485574114</span><br />
               Email: <span className="font-semibold">finelinepaintmelbourne@gmail.com</span>
             </p>
           </div>
