@@ -24,7 +24,7 @@ export default function Contact() {
               <p>
                 Email:{" "}
                 <a className="font-semibold text-blue-700 hover:underline" href="mailto: finelinepaintmelbourne@gmail.com">
-                  bogapainters@gmail.com
+                  finelinepaintmelbourne@gmail.com
                 </a>
               </p>
               <p>

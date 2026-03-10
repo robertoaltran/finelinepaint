@@ -39,12 +39,13 @@ export default function Home() {
               </div>
             </div>
 
-            {/* Placeholder box (you add photos later) */}
+            {/* Photo */}
             <div className="rounded-3xl border border-white/20 bg-white/10 p-4">
-              <div className="aspect-[16/10] w-full rounded-2xl border border-white/20 bg-white/10" />
-              <p className="mt-3 text-xs font-semibold text-white/80">
-                (Add your before/after photos here later)
-              </p>
+              <img
+                src="/images/foto01.jpg"
+                alt="Painting project"
+                className="aspect-[16/10] w-full rounded-2xl border border-white/20 object-cover"
+              />
             </div>
           </div>
         </Container>
