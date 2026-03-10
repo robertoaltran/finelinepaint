@@ -17,13 +17,13 @@ export default function Contact() {
             <div className="mt-3 space-y-2 text-sm text-zinc-700">
               <p>
                 Phone:{" "}
-                <a className="font-semibold text-blue-700 hover:underline" href="tel:+61400000000">
-                  0400 000 000
+                <a className="font-semibold text-blue-700 hover:underline" href="tel:+610485574114">
+                  0485574114
                 </a>
               </p>
               <p>
                 Email:{" "}
-                <a className="font-semibold text-blue-700 hover:underline" href="mailto:bogapainters@gmail.com">
+                <a className="font-semibold text-blue-700 hover:underline" href="mailto: finelinepaintmelbourne@gmail.com">
                   bogapainters@gmail.com
                 </a>
               </p>
